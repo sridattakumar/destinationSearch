@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.item-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+}
+.image {
+  height: 235px;
+  width: 175px;
+}
+.head {
+  font-family: roboto;
+  font-size: 24px;
+  color: #0f172a;
+}
